@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# 📰 Newsly - News Application
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📱 App Name
+**Newsly (News Application)**
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Key Features
 
-   ```bash
-   npm install
-   ```
+- 📰 Displays latest news on Home screen  
+- 📂 Category-based news filtering  
+- 🧭 Bottom navigation with Home and Category tabs  
+- 🎨 Clean and user-friendly UI  
+- ⚡ Fast loading news content  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🔄 Application Flow
 
-In the output, you'll find options to open the app in a
+1. First screen shows **App Logo (Splash Screen)**  
+2. Home screen displays latest news articles  
+3. Bottom navigation includes:
+   - 🏠 Home Tab → Shows all latest news  
+   - 📂 Category Tab → Shows news topics/categories  
+4. Clicking a category displays related news articles  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🧰 Technologies Used
 
-## Get a fresh project
+- ⚛️ React Native (Expo)  
+- 🧭 React Navigation (Bottom Tabs)  
+- 🗂️ Redux Toolkit  
+- 🌐 Axios / Fetch API  
 
-When you're ready, run:
+---
+
+## 📖 Description
+
+**Newsly** is a simple and modern news application built using React Native and Expo. It displays the latest news on the home screen and provides a category-based navigation system for filtering news by topics. The app uses bottom tab navigation for smooth switching between Home and Category screens, ensuring a clean and user-friendly experience.
+
+---
+
+## 🚀 How to Run
 
 ```bash
-npm run reset-project
-```
+npm install
+npx expo start
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Then scan QR code using Expo Go app.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👨‍💻 Developer
+**Name:** Syed Muhammad Mudassir Naqvi  
+---
