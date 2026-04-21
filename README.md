@@ -41,6 +41,10 @@
 
 ---
 
+## 👨‍💻 Developer
+**Name:** Syed Muhammad Mudassir Naqvi  
+---
+
 ## 🚀 How to Run
 
 ```bash
@@ -48,7 +52,3 @@ npm install
 npx expo start
 
 Then scan QR code using Expo Go app.
-
-## 👨‍💻 Developer
-**Name:** Syed Muhammad Mudassir Naqvi  
----
